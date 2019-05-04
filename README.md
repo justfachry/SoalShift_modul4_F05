@@ -15,7 +15,8 @@ Misalkan ada file bernama “halo” di dalam folder “INI_FOLDER”, dan key y
 Perhatian: Karakter ‘/’ adalah karakter ilegal dalam penamaan file atau folder dalam *NIX, maka dari itu dapat diabaikan
 
 Penyelesaian :
-- 
+- Membuat fungsi untuk enkripsi dan dekripsi
+- Lalu letakkan fungsi enkripsi pada sebelum mount dan dekripsi saat setelah di mount
 
 # Soal 2
 
